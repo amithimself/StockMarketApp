@@ -1,6 +1,6 @@
 # StockMarketApp
 
-
+## use python manage.py makemigrations and migrate commands for init
 
 ## use python manage.py createsuperuser to create admin user
    1. admin user can create new user. 
